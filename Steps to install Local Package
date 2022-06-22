@@ -1,0 +1,13 @@
+Steps To install Local Package modules
+1.Open CMD in given folder
+
+2. Write command : npm install moment
+
+3.Node modules are created in Folder
+
+Steps to Unisntall 
+1. Open CMD 
+
+2. Write command : npm install moment -g
+
+3. When you check Node module you find it empty.
