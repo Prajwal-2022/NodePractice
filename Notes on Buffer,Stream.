@@ -1,0 +1,9 @@
+Notes on Streams and Buffer
+
+-Buffer:A temporary space for chunk of data that is being transferred from one place to another,
+
+Its filled with dataand then pass along, It transfers small amount of data at a time.
+
+-Stream: used to create the streams in node js to transfer data,
+
+And it increase performance.
