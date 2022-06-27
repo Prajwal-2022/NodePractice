@@ -1,0 +1,24 @@
+Notes on Express
+-Express : Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develop web and mobile applications.
+
+-Features of Express: 
+Allows to set up middlewares to respond to HTTP Requests.
+
+Defines a routing table which is used to perform different actions based on HTTP Method and URL.
+
+Allows to dynamically render HTML Pages based on passing arguments to templates.
+
+-Middleware:
+Middleware functions are functions that have access to the request object ( req ), the response object ( res ), and the next function in the application's request-response cycle
+
+-Intsllation:
+npm install express -save
+
+
+app.get(): to handle GET requests 
+app.post(): to handle POST requests
+
+-EJS: An Embedded view engine used with templates and some data embeded together.
+Usually EJS is a simple templating language/engine that lets its user generate HTML with plain javascript.
+
+-View Engine: View engines allow us to render web pages using template files. These templates are filled with actual data and served to the client
